@@ -1,13 +1,14 @@
 # staticStatic
+> 🎮 - Welcome to staticStatic, your call will be answered in the order it was received in.
 
-* 💻: what the world wants, the world gets
-* 🎮: focus on the game
-* 👔: slow changing living things
-* 🎸: information transfer
-* 🎉: GitHub / API
+# Emojis
+* 💻: LearnEverything
+* 👔: === shielkwämm ===
+* 🎮: staticStatic
+* 🎸: TechnologyEdit
+* 🎉: Neobii
 
 # Graph
-> 👔 - Welcome to staticStatic, your call will be answered in the order it was recieved in.
 
 | # | Subject | Resource Location | Status |
 | ------- | ------- | ------- | ------- |
@@ -20,4 +21,4 @@
 | 6 | Credentialed Evaluation Reports | ~ |  |
 | 7 | Hueristic Path of Least Resistance | DOC |  |
 | 8 | | |  |
-| 9 | Social Infusions with High Delta | DOE | 🎸 |
+| 9 | Social Infusions with High Delta | DOE | 🎮 |
