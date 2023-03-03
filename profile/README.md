@@ -5,7 +5,7 @@
 * 💻: LearnEverything
 * 👔: === shielkwämm ===
 * 🎮: staticStatic
-* 🎸: TechnologyEdit
+* 🎸: InformationAsymmetry
 * 🎉: Neobii
 
 # Graph
@@ -14,11 +14,11 @@
 | ------- | ------- | ------- | ------- |
 | 0 |  |  |  |
 | 1 |  |  |  |
-| 2 | Social Vectors | The State Department | |
+| 2 | Social Vectors | | |
 | 3 |  |  |  |
 | 4 |  |  | |
 | 5 | Consumability of Infrastructure | | |
-| 6 | Credentialed Evaluation Reports | ~ |  |
-| 7 | Hueristic Path of Least Resistance | DOC |  |
+| 6 | Credentialed Evaluation Reports |  |  |
+| 7 | Hueristic Path of Least Resistance |  | 🎮 |
 | 8 | | |  |
-| 9 | Social Infusions with High Delta | DOE | 🎮 |
+| 9 | Social Infusions with High Delta |  |  |
